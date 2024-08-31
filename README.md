@@ -1,6 +1,5 @@
 # Wonders-From-El-Salvador
 
-# Wonders-From-El-Salvador
 # Primera Fase del Proyecto de Cátedra
 
 ## Descripción
