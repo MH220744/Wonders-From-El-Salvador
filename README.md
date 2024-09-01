@@ -2,7 +2,7 @@
 
 # Primera Fase del Proyecto de Cátedra
 
-## Descripción
+## Descripción:
 **Integrantes: Grupo Teórico 01T**
 
 - **Miranda Hurtado, Rodrigo José** (Coordinador) - MH220744
@@ -10,9 +10,9 @@
 - **Martínez Romero, Lesly Michelle** - MR222351
 - **Guevara Moz, Bryan Adonay** - GM202186
 - **González León, Cindy Valeria** - GL221827
-  
 
-## Enlaces
+  
+## Enlaces:
 
 - **Link Trello (Jira):**  
   [Trello/Jira Board](https://wonders-from-el-salvador.atlassian.net/jira/software/projects/KAN/boards/1?assignee=712020%3Aad88f41b-60e7-4ee9-9bf2-ebaf28ed2fe0&atlOrigin=eyJpIjoiMzc5NTE4MjMxZjkyNDIwMmJjYzAwNWUzNGNmOGRlZTQiLCJwIjoiaiJ9)
