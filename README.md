@@ -6,8 +6,8 @@
 **Integrantes: Grupo Teórico 01T**
 
 - **Miranda Hurtado, Rodrigo José** (Coordinador) - MH220744
-- **Martínez Romero, Lesly Michelle** - MR222351
 - **Miranda Rodríguez, Leo Fernando** - MR211604
+- **Martínez Romero, Lesly Michelle** - MR222351
 - **González León, Cindy Valeria** - GL221827
 - **Guevara Moz, Bryan Adonay** - GM202186
 
